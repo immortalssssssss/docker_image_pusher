@@ -1,1 +1,1 @@
-InfluxDB
+influxdb
