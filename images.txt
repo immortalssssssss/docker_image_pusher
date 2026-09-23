@@ -1,2 +1,3 @@
 influxdb
 emqx/neuronex
+emqx/neuronex:latest
